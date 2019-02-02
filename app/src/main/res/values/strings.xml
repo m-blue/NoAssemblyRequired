@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="txtTitle">Tools</string>
+    <string name="txtDescription">Tools needed to assemble</string>
+    <string name="btnIKEADresser">IKEA dresser</string>
+    <string name="btnBicycle">Bicycle</string>
+    <string name="btnWoodPatio">Wooden Patio</string>
+
+    <string name="imgDresser">Image of a Dresser</string>
+    <string name="imgBicycle">Image of a Bicycle</string>
+    <string name="imgPatio">Image of a Wooden Patio</string>
+
+    <string name="txtItem1"></string>
+    <string name="txtItem2"></string>
+    <string name="txtItem3"></string>
+
+    <string name="txtIkeaTitle">IKEA Dresser</string>
+    <string name="txtIkeaItem1">Screwdriver</string>
+    <string name="txtIkeaItem2">Hammer</string>
+
+    <string name="txtBikeTitle">Bicycle</string>
+    <string name="txtBikeItem1">Screwdriver</string>
+    <string name="txtBikeItem2">Monkey Wrench</string>
+
+    <string name="txtWoodTitle">Wood Patio</string>
+    <string name="txtWoodItem1">Screwdriver</string>
+    <string name="txtWoodItem2">Hammer</string>
+    <string name="txtWoodItem3">Several 2 x 4s</string>
+</resources>
