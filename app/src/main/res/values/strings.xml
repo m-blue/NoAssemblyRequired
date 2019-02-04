@@ -17,13 +17,25 @@
     <string name="txtIkeaTitle">IKEA Dresser</string>
     <string name="txtIkeaItem1">Screwdriver</string>
     <string name="txtIkeaItem2">Hammer</string>
+    <string name="txtIkeaItem3">Adjustable Wrench</string>
 
     <string name="txtBikeTitle">Bicycle</string>
     <string name="txtBikeItem1">Screwdriver</string>
-    <string name="txtBikeItem2">Monkey Wrench</string>
+    <string name="txtBikeItem2">Allen Keys</string>
+    <string name="txtBikeItem3">Pedal Wrench</string>
+    <string name="txtBikeItem4">Torque Wrench</string>
+    <string name="txtBikeItem5">Cassette lockring tool</string>
+    <string name="txtBikeItem6">Bottom bracket spanner</string>
+    <string name="txtBikeItem7">Chain breaker</string>
+    <string name="txtBikeItem8"></string>
+
 
     <string name="txtWoodTitle">Wood Patio</string>
     <string name="txtWoodItem1">Screwdriver</string>
     <string name="txtWoodItem2">Hammer</string>
-    <string name="txtWoodItem3">Several 2 x 4s</string>
+    <string name="txtWoodItem3">Circular Saw</string>
+    <string name="txtWoodItem4">Hand Saw</string>
+    <string name="txtWoodItem5">Tape Measure</string>
+    <string name="txtWoodItem6">Leveler</string>
+    <string name="txtWoodItem7">Drill</string>
 </resources>

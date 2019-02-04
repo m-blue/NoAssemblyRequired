@@ -42,11 +42,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="64dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:text="@string/txtBikeItem1"
-        android:textSize="24sp"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtBikeTitle" />
@@ -55,9 +55,59 @@
         android:id="@+id/txtBikeItem2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="8dp"
         android:text="@string/txtBikeItem2"
-        android:textSize="24sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
         app:layout_constraintTop_toBottomOf="@+id/txtBikeItem1" />
+
+    <TextView
+        android:id="@+id/txtBikeItem3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/txtBikeItem3"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
+        app:layout_constraintTop_toBottomOf="@+id/txtBikeItem2" />
+
+    <TextView
+        android:id="@+id/txtBikeItem4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/txtBikeItem4"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
+        app:layout_constraintTop_toBottomOf="@+id/txtBikeItem3" />
+
+    <TextView
+        android:id="@+id/txtBikeItem5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/txtBikeItem5"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
+        app:layout_constraintTop_toBottomOf="@+id/txtBikeItem4" />
+
+    <TextView
+        android:id="@+id/txtBikeItem6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/txtBikeItem6"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
+        app:layout_constraintTop_toBottomOf="@+id/txtBikeItem5" />
+
+    <TextView
+        android:id="@+id/txtBikeItem7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/txtBikeItem7"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/txtBikeItem1"
+        app:layout_constraintTop_toBottomOf="@+id/txtBikeItem6" />
 </android.support.constraint.ConstraintLayout>
